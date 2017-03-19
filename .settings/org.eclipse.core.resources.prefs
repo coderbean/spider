@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/jm/bean/ShowItem.java=UTF-8
+encoding//src/com/jm/dao/TvQueryUpdate.java=UTF-8
+encoding//src/com/jm/db/DbPool.java=UTF-8
+encoding//src/com/jm/main/Main.java=UTF-8
+encoding//src/com/jm/main/TVQueryThread.java=UTF-8
+encoding//src/com/jm/sitehandler/SiteHandler.java=UTF-8
+encoding//src/com/jm/util/net/HttpURLConUtil.java=UTF-8
